@@ -1,0 +1,21 @@
+{
+  "name": "dimmed-orange-theme",
+  "displayName": "dimmed-orange-theme",
+  "description": "A warm and cosy theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dimmed Orange Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dimmed Orange Theme-color-theme.json"
+      }
+    ]
+  }
+}
