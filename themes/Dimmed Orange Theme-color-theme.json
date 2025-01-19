@@ -164,7 +164,7 @@
                 "markup.underline.link"
             ],
             "settings": {
-                "foreground": "#F9AD5DFF"
+                "foreground": "#e29c52"
             }
         },
         {
@@ -220,7 +220,7 @@
                 "support.type.sys-types"
             ],
             "settings": {
-                "foreground": "#e14956"
+                "foreground": "#c8424d"
             }
         },
         {
