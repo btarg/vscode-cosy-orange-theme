@@ -1,9 +1,4 @@
 # Change Log
+## [1.1.0]
 
-All notable changes to the "dimmed-orange-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Made some changes inspired by the Homey theme to make the theme more cosy and less contrasty.

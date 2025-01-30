@@ -215,6 +215,7 @@
         "tab.inactiveForeground": "#a18c7f",
         "tab.unfocusedActiveForeground": "#847468",
         "tab.unfocusedInactiveForeground": "#685b52",
+
         "terminal.ansiBlack": "#3c3836",
         "terminal.ansiBlue": "#458588",
         "terminal.ansiBrightBlack": "#928374",
@@ -230,7 +231,8 @@
         "terminal.ansiMagenta": "#b16286",
         "terminal.ansiRed": "#cc241d",
         "terminal.ansiWhite": "#a89984",
-        "terminal.ansiYellow": "#21d74e",
+        "terminal.ansiYellow": "#d79921",
+        
         "terminal.foreground": "#f5d7c2",
         "textLink.activeForeground": "#a74e0e",
         "textLink.foreground": "#e17c35",
