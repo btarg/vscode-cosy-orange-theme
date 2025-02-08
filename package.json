@@ -2,7 +2,7 @@
     "name": "cosy-orange-theme",
     "displayName": "Cosy Orange Theme",
     "description": "A warm, low-saturation, low-contrast orange dark theme.",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "publisher": "btarg",
     "repository": "https://github.com/btarg/vscode-cosy-orange-theme/",
     "engines": {
